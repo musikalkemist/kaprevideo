@@ -1,0 +1,2 @@
+kapre==0.3.7
+tensorflow==2.9.1
